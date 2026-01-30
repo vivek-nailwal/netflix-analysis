@@ -1,4 +1,4 @@
-# Netflix Content Analysis
+# Netflix Content Analysis for Global Content Strategy
 
 ## 📌 Description
 This project focuses on analyzing Netflix’s content dataset to understand trends in movies and TV shows, genre distribution, content growth over time, and country-wise availability. The analysis aims to extract meaningful insights that can support content strategy and decision-making.
