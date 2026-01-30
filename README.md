@@ -11,7 +11,8 @@ This project focuses on analyzing Netflix’s content dataset to understand tren
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook / Google Colab  
+- Google Colab
+- Google Search Engine
 
 ---
 
